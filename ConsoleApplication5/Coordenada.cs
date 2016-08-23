@@ -53,6 +53,7 @@ namespace CursoOOP
     {
       return fila == coordenada.fila && columna == coordenada.columna;
     }
+<<<<<<< HEAD
 
     internal int direccion(Coordenada coordenada)
     {
@@ -74,5 +75,7 @@ namespace CursoOOP
       }
       return -1;
     }
+=======
+>>>>>>> 3e2c08cdd1376868006d790a8bc5b29ae63fa7ca
   }
 }
