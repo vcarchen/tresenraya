@@ -53,5 +53,26 @@ namespace CursoOOP
     {
       return fila == coordenada.fila && columna == coordenada.columna;
     }
+
+    internal int direccion(Coordenada coordenada)
+    {
+      if (fila == coordenada.fila)
+      {
+        return 0;
+      }
+      if (columna == coordenada.columna)
+      {
+        return 1;
+      }
+      if (fila - columna == 0 && coordenada.fila - coordenada.columna == 0)
+      {
+        return 2;
+      }
+      if (fila + columna == 4 && coordenada.fila + coordenada.columna == 4)
+      {
+        return 3;
+      }
+      return -1;
+    }
   }
 }

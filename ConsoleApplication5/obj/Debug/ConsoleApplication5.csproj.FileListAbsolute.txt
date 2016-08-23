@@ -4,3 +4,9 @@ C:\Users\Victor\Documents\Visual Studio 2015\Projects\CursoOOP\ConsoleApplicatio
 C:\Users\Victor\Documents\Visual Studio 2015\Projects\CursoOOP\ConsoleApplication5\bin\Debug\CursoOOP.pdb
 C:\Users\Victor\Documents\Visual Studio 2015\Projects\CursoOOP\ConsoleApplication5\obj\Debug\CursoOOP.exe
 C:\Users\Victor\Documents\Visual Studio 2015\Projects\CursoOOP\ConsoleApplication5\obj\Debug\CursoOOP.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TresEnRaya-OOP\ConsoleApplication5\bin\Debug\CursoOOP.exe.config
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TresEnRaya-OOP\ConsoleApplication5\obj\Debug\CursoOOP.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TresEnRaya-OOP\ConsoleApplication5\obj\Debug\CursoOOP.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TresEnRaya-OOP\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TresEnRaya-OOP\ConsoleApplication5\bin\Debug\CursoOOP.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\TresEnRaya-OOP\ConsoleApplication5\bin\Debug\CursoOOP.pdb
